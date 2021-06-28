@@ -14,7 +14,6 @@
   },
   "eslint.alwaysShowStatus": true,
   "javascript.validate.enable": false,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   "bracketPairColorizer.colorMode": "Independent",
   "bracketPairColorizer.independentPairColors": [
     ["()", ["White"], "Red"],
